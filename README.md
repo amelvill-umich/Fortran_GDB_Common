@@ -3,6 +3,8 @@ A repo demonstrating a problem where GDB can't seem to examine the value of Fort
 
 # With this line active:
 
+(in somemodule.f90)
+
 ```f90
 common /othermodule/  moduleVar
 ```
